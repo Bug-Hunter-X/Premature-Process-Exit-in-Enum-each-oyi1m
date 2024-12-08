@@ -1,0 +1,1 @@
+This repository showcases a subtle bug in Elixir involving premature process termination during list iteration using `Enum.each`. The bug and its solution are presented with explanations to help understand the issue and its resolution.  The `bug.exs` file demonstrates the incorrect usage, and `bugSolution.exs` provides the corrected version.
